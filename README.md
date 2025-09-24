@@ -51,7 +51,7 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 
 - [GradeMate](https://github.com/laurauguc/grading_assistant) - App Development
   
-GradeMate is an open-source application designed to assist teachers with grading by providing AI-generated recommendations. I led the prompt engineering and multi-agent design, and we submitted the project to Google’s Gemini Developer Competition. Developed in collaboration with Columbia University's QMSS Innovation Lab, GradeMate is being expanded as a transparent, contestable, and ethically grounded alternative to commercial tools, promoting responsible innovation in educational technology in contrast to closed-source solutions that often make broad claims about eliminating bias or surpassing human performance.
+  GradeMate is an open-source application designed to assist teachers with grading by providing AI-generated recommendations. I led the prompt engineering and multi-agent design, and we submitted the project to Google’s Gemini Developer Competition. Developed in collaboration with Columbia University's QMSS Innovation Lab, GradeMate is being expanded as a transparent, contestable, and ethically grounded alternative to commercial tools, promoting responsible innovation in educational technology in contrast to closed-source solutions that often make broad claims about eliminating bias or surpassing human performance.
 
 
 - [Zambia Rainfall Clustering Analysis](https://github.com/Sam-Gartenstein/zambia-drought-analysis) - Clustering Analysis
