@@ -37,6 +37,7 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 **Areas of Interest**
 - Bayesian Statistics
 - Machine Learning
+- Generative AI Applications
 - Sports Analytics
 - Climate & Weather Risk Analysis
 
