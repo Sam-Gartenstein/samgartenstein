@@ -62,6 +62,10 @@ Examines how different **zoning methods** impact **fairness** in **weather index
   
   Initial analysis of rainfall in Zambia, examining and quantifying drought severity using the Standardized Precipitation Index (SPI). Applied K-means and hierarchical clustering to group administrative zones based on rainfall patterns.
 
-  
+---
 
+## 📫 Let's Connect!
+
+- **LinkedIn**: [Sam Gartenstein](https://www.linkedin.com/in/sam-gartenstein/)
+- **GitHub**: You’re here! Check out my repos to see what I’ve been working on.
 
