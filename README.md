@@ -20,13 +20,23 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 
 ## 🧠 Skills & Expertise
 
-**Programming Languages**: Python, R, SQL, Stan, PySpark  
+**Programming Languages**: 
+- Python
+- R
+- SQL
+- Stan
+- PySpark  
 
 **Packages and Libraries**:
-- **ML & Statistics**: scikit-learn, PyMC, TensorFlow/Keras, ArviZ  
-- **Data Analysis & Visualization**: pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **ML & Statistics**: scikit-learn, PyMC, TensorFlow/Keras, ArviZ, rstanarm  
+- **Data Analysis**: pandas, NumPy, tidyverse, dplyr  
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Streamlit  
 - **Geospatial Tools**: GeoPandas, Folium, CHIRPS, Google Earth Engine  
-- **Data Engineering & Ops**: Git, MLflow, Google Cloud Platform, Databricks
+- **Data Engineering & Ops**: Git, MLflow, Google Cloud Platform (GCP), Databricks  
 
-  
+**Areas of Interest**
+- Bayesian Statistics
+- Machine Learning
+- Sports Analytics
+- Climate & Weather Risk Analysis
 
