@@ -41,3 +41,22 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 - Sports Analytics
 - Climate & Weather Risk Analysis
 
+----
+
+## 🌱 Past Projects and Contributions
+
+- [Lights, Camera, ReAction](https://github.com/Sam-Gartenstein/Lights-Camera-ReAction) - Generative AI Application
+  Add description
+
+- [GradeMate](https://github.com/laurauguc/grading_assistant) - App Development
+  Add description
+
+- [Zambia Rainfall Clustering Analysis](https://github.com/Sam-Gartenstein/zambia-drought-analysis) - Clustering Analysis
+  Add description
+  
+- [Drought Identification, Trend Analysis, and Clustering Across Zambia](https://github.com/Sam-Gartenstein/KenyaDroughtAnalysis) - Trend and Clustering Analysis
+  Add description
+
+  
+
+
