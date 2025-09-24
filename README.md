@@ -46,7 +46,8 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 ## 🌱 Past Projects and Contributions
 
 - [Lights, Camera, ReAction](https://github.com/Sam-Gartenstein/Lights-Camera-ReAction) - Generative AI Application
-  Add description
+
+  Sitcom script generation pipeline powered by ReAct-based agents, where Character, Comedy, and Environment Agents collaborate like a virtual writers’ room to create scene-by-scene scripts. Each scene is dynamically generated, refined, and stored with metadata in a vector database, enabling coherent storytelling with consistent character arcs, running jokes, and continuity across episodes. 
 
 - [GradeMate](https://github.com/laurauguc/grading_assistant) - App Development
   Add description
