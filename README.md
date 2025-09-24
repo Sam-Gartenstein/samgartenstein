@@ -7,7 +7,6 @@ I am a recent graduate of Columbia University's Quantitative Methods in the Soci
 ----
 
 ## 🔭 What I am Workoing On 
----
 
 🌍 **[Zambia Index Insurance Optimization](https://github.com/Sam-Gartenstein/zambia-index-insurance-optimization)** — *Weather Index Insurance Risk Reduction*
 
@@ -19,4 +18,15 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 
 ----
 
-### 🧠 Skills & Expertise
+## 🧠 Skills & Expertise
+
+**Programming Languages**: Python, R, SQL, Stan, PySpark  
+
+**Packages and Libraries**:
+- **ML & Statistics**: scikit-learn, PyMC, TensorFlow/Keras, ArviZ  
+- **Data Analysis & Visualization**: pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Geospatial Tools**: GeoPandas, Folium, CHIRPS, Google Earth Engine  
+- **Data Engineering & Ops**: Git, MLflow, Google Cloud Platform, Databricks
+
+  
+
