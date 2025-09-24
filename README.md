@@ -59,6 +59,7 @@ Examines how different **zoning methods** impact **fairness** in **weather index
   Built upon the initial analysis by clustering directly on Google Earth Engine rainfall pixel data to better capture granularity in rainfall patterns. Developed a metric for basis risk in weather index insurance and compared K-means–derived zones with traditional administrative boundaries.
 
 - **[Drought Identification, Trend Analysis, and Clustering Across Zambia](https://github.com/Sam-Gartenstein/KenyaDroughtAnalysis)** - *Trend and Clustering Analysis*
+  
   Initial analysis of rainfall in Zambia, examining and quantifying drought severity using the Standardized Precipitation Index (SPI). Applied K-means and hierarchical clustering to group administrative zones based on rainfall patterns.
 
   
