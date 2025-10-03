@@ -16,6 +16,11 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 
 **Bayesian hierarchical model** estimating the probability of a **home run** for each MLB plate appearance, incorporating **batter, pitcher, and ballpark effects**. The model leverages **partial pooling** to stabilize estimates across players and venues, enabling more accurate predictions even when matchup data is sparse.
 
+🤖 **[Generative AI Engineering Workshop](https://github.com/Sam-Gartenstein/GenAI-Engineering-Workshop)** — *Hands-on introduction to generative AI concepts and applications*  
+
+Covers **prompt engineering**, **role prompting**, and **API fundamentals** through structured Google Colab notebooks. Includes guided exercises on **synthetic dataset creation** and exploration of **advanced topics** such as **model benchmarking**, **cost reduction strategies**, **AI agent design**, and **LLM-as-judge evaluation methods**.  
+
+
 ----
 
 ## 🧠 Skills & Expertise
